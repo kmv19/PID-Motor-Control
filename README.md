@@ -7,7 +7,7 @@ Motor Interfacing
 
 The DC motor is connected to the microcontroller board. The motor's power supply and ground connections are then properly connected.We have connected the L298 motor driver for driving the motor if it requires higher current than what the microcontroller can provide.
 
-Sensor Integration 
+Sensor Integration
 
 For the sensor, we are using the Optical Rotary Encoder. It provides the feedback on the motor's position or speed.The sensor output is connected to the appropriate input pins of the microcontroller.
 
