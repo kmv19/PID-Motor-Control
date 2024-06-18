@@ -3,7 +3,7 @@ PID Motor Control System is a system designed to regulate the speed or position 
 
 The hardware platform that we use is the NXP Freedom Development Board (FRDM-KL25Z). The KL25Z is a Cortex-M0+ microcontroller for embedded applications.
 
-Motor Interfacing
+#Motor Interfacing
 
 The DC motor is connected to the microcontroller board. The motor's power supply and ground connections are then properly connected.We have connected the L298 motor driver for driving the motor if it requires higher current than what the microcontroller can provide.
 
