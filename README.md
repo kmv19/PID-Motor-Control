@@ -1,9 +1,9 @@
-### PID-Motor-Control
+## PID-Motor-Control
 PID Motor Control System is a system designed to regulate the speed or position of a motor by continuously adjusting the motor's input based on the error between the desired output and the actual output. It will give the user/computer the ability to control the speed and direction of the motor.Basically, it is a basic model of a servo motor.
 
 The hardware platform that we use is the NXP Freedom Development Board (FRDM-KL25Z). The KL25Z is a Cortex-M0+ microcontroller for embedded applications.
 
-#Motor Interfacing
+Motor Interfacing
 
 The DC motor is connected to the microcontroller board. The motor's power supply and ground connections are then properly connected.We have connected the L298 motor driver for driving the motor if it requires higher current than what the microcontroller can provide.
 
